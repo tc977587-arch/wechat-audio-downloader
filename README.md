@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="WeChat Audio Downloader" width="180">
-</p>
-
 <h1 align="center">WeChat Audio Downloader</h1>
 
 <p align="center">
@@ -152,3 +148,9 @@ Install Certificates.command
 ## License
 
 MIT License
+
+## 反馈/建议
+
+QQ:3603237310
+邮箱:tc977587@gmail.com
+飞机:https://t.me/next977587
