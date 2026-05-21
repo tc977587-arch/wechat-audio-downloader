@@ -1,5 +1,9 @@
 # WeChat Audio Downloader
 
+![Python](https://img.shields.io/badge/python-%3E%3D3.10-2ea44f?style=for-the-badge&labelColor=555555)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-2ea44f?style=for-the-badge&labelColor=555555)
+![License](https://img.shields.io/badge/license-MIT-4c8f7a?style=for-the-badge&labelColor=555555)
+
 一个简单易用的微信公众号音频下载工具。输入微信公众号文章链接或合集链接，即可提取文章中的音频，并自动保存到本机下载文件夹。
 
 支持单篇文章下载，也支持公众号合集批量下载。合集模式会逐个解析分集文章，并按照顺序命名音频文件。
